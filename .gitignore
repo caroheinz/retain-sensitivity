@@ -1,0 +1,17 @@
+# Local Python environments
+.venv/
+venv/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+/ERM/*.ipynb
+
+# Downloaded datasets and generated experiment outputs
+**/data/
+**/results/
+
+# Local machine files and archived source bundle
+.DS_Store
+ERM.zip
